@@ -1,4 +1,4 @@
-![header_image](./assets/Artboard%20–%201.png)
+![header_image](./assets/cover_image_mentem.png)
 ## The Idea
 We wanted to implement a system where people could have access to effective, yet discrete mental health support. In a nutshell, we wanted to build a safe space.
 
@@ -6,7 +6,7 @@ We wanted to implement a system where people could have access to effective, yet
 ---
 We've spent a long time ignoring a multitude of facets of life under the tag of "man up" or dont be a baby, or to quote David rose from Schitt's Creek, 
 
-![David Rose](./assets/49664-1566987731.jpeg)
+![David Rose](./assets/schitts_creek_mental_health.jpeg)
 
 This needs to change.  It's gonna happen only if we start talking about it OPENLY. Remove the stigma around it.
 
@@ -29,14 +29,14 @@ Mentem was originally intended to be an all in one platform for health clinics t
 ---
 Here's a quick video showing what is included out of the box.
 
-#### The Client's side
+#### The Patient's side
 --- 
-![The Client's side](./assets/vid_1.gif)
+![The Patient's side](./assets/patient.gif)
 <!-- [![The Client's side](./assets/vid_1.gif)](https://youtu.be/-Ax7xFPC0xk) -->
 
 #### The Doctor's side
 ---
-![The Doctor's side](assets/vid_2.gif)
+![The Doctor's side](assets/doctor.gif)
 <!-- [![The Doctor's side](assets/vid_2.gif)](https://youtu.be/Uis3MZ23ilg) -->
 
 
