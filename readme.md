@@ -28,15 +28,10 @@ Here's a quick video showing what is included out of the box.
 
 >The Client's side
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Uis3MZ23ilg
-" target="_blank"><img src="http://img.youtube.com/vi/Uis3MZ23ilg/0.jpg" 
-alt="Quick Intro" width="240"  border="1" /></a>
 
 >The Doctor's side
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=-Ax7xFPC0xk
-" target="_blank"><img src="http://img.youtube.com/vi/-Ax7xFPC0xk/0.jpg"
-alt="Quick Intro" width="240" border="1" /></a>
+
 
 ### Graphic Credits
 Cover Image: [Freepik](https://www.freepik.com/vectors/sport)
