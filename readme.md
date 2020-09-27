@@ -39,8 +39,11 @@ Here's a quick video showing what is included out of the box.
 ![The Doctor's side](assets/doctor.gif)
 <!-- [![The Doctor's side](assets/vid_2.gif)](https://youtu.be/Uis3MZ23ilg) -->
 
+Find the slides [here](https://speakerdeck.com/nullpointxr/mentem)
 
-### Graphic Credits
+
+#### Graphic Credits
+---
 Cover Image: [Freepik](https://www.freepik.com/vectors/sport)
 
 Schitt's Creek: [spotern](https://www.spotern.com/en/wanted/tv/schitt-s-creek/49664/black-zipper-sweater-of-david-rose-daniel-levy-in-schitt-s-creek-s01)
