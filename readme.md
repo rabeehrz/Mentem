@@ -16,6 +16,9 @@ So we got a chance to take part in a [state wide hackathon](https://reboot.asapk
 
 > As they say, Baby steps. Baby steps first.
 
+We chose the following problem statement 
+>
+
 We were given exposure to professionals in the field of mental health. 
 
 
@@ -26,11 +29,15 @@ Mentem was originally intended to be an all in one platform for health clinics t
 ---
 Here's a quick video showing what is included out of the box.
 
->The Client's side
+#### The Client's side
+--- 
+![The Client's side](./assets/vid_1.gif)
+<!-- [![The Client's side](./assets/vid_1.gif)](https://youtu.be/-Ax7xFPC0xk) -->
 
-
->The Doctor's side
-
+#### The Doctor's side
+---
+![The Doctor's side](assets/vid_2.gif)
+<!-- [![The Doctor's side](assets/vid_2.gif)](https://youtu.be/Uis3MZ23ilg) -->
 
 
 ### Graphic Credits
