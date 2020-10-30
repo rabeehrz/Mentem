@@ -46,6 +46,16 @@ Here's a quick video showing what is included out of the box.
 
 Find the slides we used [here](https://speakerdeck.com/nullpointxr/mentem)
 
+#### The team
+* [@nullpointxr](https://github.com/nullpointxr)
+* [@rabeehrz](https://github.com/rabeehrz)
+* [@jacob13400](https://github.com/jacob13400)
+* [@jozdien](https://github.com/jozdien)
+* [@anamikaprksh](https://github.com/anamikaprksh)
+* [@annvithayathil](https://github.com/annvithayathil)
+
+#### And the moment of fruition
+![Reboot Second Runners Up: Team Invictus](https://dev-to-uploads.s3.amazonaws.com/i/5aloao7fzkvbjphwebo9.jpg)
 
 #### Graphic Credits
 ---
